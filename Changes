@@ -1,5 +1,11 @@
 Revision history for Process-KillTree
 
+0.02    2011-09-29
+
+        No functional changes. Add dependency to Sub::Spec, remove duplicate
+        spec.
+
+
 0.01    2011-09-29
 
         First release.
